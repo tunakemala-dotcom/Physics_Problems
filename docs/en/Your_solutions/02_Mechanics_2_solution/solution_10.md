@@ -1,5 +1,3 @@
-FILE: task_10.md
-```markdown
 # Task 10 – Force field and power
 
 ## Problem Statement
